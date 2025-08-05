@@ -81,3 +81,15 @@ To currency (USD, UZS, EUR): UZS
 
 ✅ 100 USD = 1,275,000.00 UZS (25.07.2025)
 ```
+currency_converter
+│               
+├── services/
+│   └── exchange.py         
+│
+├── utils/
+│   └── converter.py        
+│
+├── interface/
+│   └── cli.py              
+├── main.py  
+└── __init__.py             
